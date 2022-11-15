@@ -10,9 +10,9 @@ I’m a software consultant with over 15 years of experience. I’ve been workin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/SamnangChhun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="SamnangChhun" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="SamnangChhun" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/samnangchhun" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="samnangchhun" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="samnangchhun" height="30" width="40" />
   </a>
 </p>
