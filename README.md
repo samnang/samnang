@@ -4,7 +4,7 @@ I’m a software consultant with over 15 years of experience. I’ve been workin
 
 - 🔭 I’m currently working on [Somleng](https://www.somleng.org).
 - 🌱 I’m currently learning more on building decentralized applications (dApps) on blockchain.
-- 💬 Ask me about **Ruby/Rails, JavaScript, AWS, and Software Design & Best Practices**.
+- 💬 Ask me about **Ruby / Rails, API Design, JavaScript, AWS, and Software Design & Best Practices**.
 - 📫 How to reach me: [@SamnangChhun](https://twitter.com/SamnangChhun) on Twitter.
 
 <!--
