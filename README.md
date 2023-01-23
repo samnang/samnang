@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samnang</h1>
-<h3 align="center">Aspiring Software Craftsman</h3>
+<h3 align="center">Software Craftsman</h3>
 
 I’m a software consultant with over 15 years of experience. I’ve been working with teams and clients from around the world, helping in building new systems from scratch or supporting maintenance work on legacy applications. I care about developing maintainable software, writing better quality software and building a good team culture.
 
