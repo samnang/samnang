@@ -3,7 +3,7 @@
 
 I’m a software consultant with over 15 years of experience. I’ve been working with teams and clients from around the world, helping in building new systems from scratch or supporting maintenance work on legacy applications. I care about developing maintainable software, writing better quality software and building a good team culture.
 
-- 🔭 I’m currently working on [Somleng](https://www.somleng.org) and Kenorei Solutions (white label payments platform).
+- 🔭 I’m currently working on [Somleng](https://www.somleng.org) and [OpenEWS](https://github.com/somleng/open-ews) (The world's first Open Source Emergency Warning System Dissemination Platform).
 - 🌱 I’m currently learning more on building decentralized applications (dApps) on blockchain.
 - 💬 Ask me about **Ruby / Rails, API Design, JavaScript / TypeScript, DevOps, and Software Design & Best Practices**.
 
